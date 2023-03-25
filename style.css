@@ -1,0 +1,52 @@
+
+
+body {
+    background-color: green;
+    font-family: 'Princess Sofia', cursive;
+  
+}
+
+.card {
+    position: relative;
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    border-radius: 8px;
+    
+}
+
+.container {
+    background-color: rgb(100, 91, 91);
+    margin: auto;
+   
+}
+
+h1 {
+    
+    text-align: center;
+   
+    font-size: 100px;
+    
+}
+
+h2 {
+    font-size: 100px;
+    margin-left: 20px;
+    
+    
+}
+
+h2:nth-child(3){
+    
+    float: right;
+    margin-right: 20px;
+    margin-top: auto;
+}
+
+/* h2:nth-child(1){
+    
+
+    
+} */
+
